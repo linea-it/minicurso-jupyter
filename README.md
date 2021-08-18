@@ -1,2 +1,8 @@
-# minicurso-jupyter
-Jupyter notebooks com exemplos, tutoriais e exercícios (material didático utilizado no Minicurso Jupyter Notebook oferecido pelo LIneA). 
+# Minicurso Jupyter Notebook
+
+
+Jupyter notebooks com exemplos, tutoriais e exercícios utilizados no minicurso.
+
+Obs.: o material será liberado gradativamente ao longo do curso. 
+
+
