@@ -15,3 +15,7 @@ Este repositório disponibiliza Jupyter notebooks com exemplos, tutoriais e exer
 Obs.: o material será liberado gradativamente ao longo do curso. 
 
 Antes de cada aula, atualize seu clone (no Terminal:`$ cd minicurso-jupyter; git pull`).
+
+
+Bons estudos!
+
