@@ -1,9 +1,5 @@
 
-# Minicursos LIneA
-
-## Introdução a ferramentas computacionais aplicadas à e-astronomia
-
-### Minicurso Jupyter Notebook 
+# Minicursos Jupyter Notebook 
 
  * Introdução ao Jupyter, Python, e SQL -> [slides das aulas](https://docs.google.com/presentation/d/1lK8XNvj1MG_oC39iNfEA16PiU10mzhgUkO0irmxgTmE/preview)
  * Aplicações na Astrofísica e Cosmologia (em breve)
